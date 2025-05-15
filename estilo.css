@@ -17,7 +17,7 @@ body {
     color: #385555;
 }
 .list-wrapper {
-    background-color: white;
+    background-color: rgb(206, 206, 206);
     width: 90%;
     max-width: 500px;
     max-height: 400px;
@@ -36,7 +36,7 @@ body {
 }
 .list-item {
     display: flex;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid #eeeeee;
     padding: 16px;
     margin: 0;
 }
@@ -51,13 +51,13 @@ body {
 .list-item__name {
     font-size: 24px;
     margin: 0;
-    color: #385555;
+    color: #000000;
     
  
 }
 .list-item__email {
     margin: 5px 0 0 ;
-    color: #aaa;
+    color: #ffffff;
     
 }
 .list-item:hover {
